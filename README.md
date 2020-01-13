@@ -3,4 +3,3 @@ This project utilizes the MVC structure and Spring boot to add/delete users on t
 
 Tutorials: 
 https://www.youtube.com/watch?v=vtPkZShrvXQ
-https://www.baeldung.com/spring-boot-keycloak
